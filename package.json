@@ -1,0 +1,9 @@
+{
+    "name": "github-bot-demo",
+    "version": "1.0.0",
+    "main": "bot.js",
+    "dependencies": {
+      "@octokit/rest": "^18.0.0"
+    }
+  }
+  
